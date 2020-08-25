@@ -46,7 +46,7 @@ spec:
         tier: cicd
     spec:
       containers:
-      - image: omprakash1234/html
+      - image: omprakash1234/webserver
         name: image-name
         ports:
         - containerPort: 80
